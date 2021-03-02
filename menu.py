@@ -1,1 +1,1 @@
-print('main menu naja') 
+print('main menu') 
